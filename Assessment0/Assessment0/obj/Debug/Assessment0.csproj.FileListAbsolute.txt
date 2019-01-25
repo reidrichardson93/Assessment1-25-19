@@ -1,0 +1,7 @@
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\bin\Debug\Assessment0.exe.config
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\bin\Debug\Assessment0.exe
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\bin\Debug\Assessment0.pdb
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\obj\Debug\Assessment0.csprojResolveAssemblyReference.cache
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\obj\Debug\Assessment0.csproj.CoreCompileInputs.cache
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\obj\Debug\Assessment0.exe
+C:\Users\CCA017\source\repos\ReidRichardson\Assessment0\Assessment0\obj\Debug\Assessment0.pdb

@@ -1,0 +1,6 @@
+c:\users\cca017\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe.config
+c:\users\cca017\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.exe
+c:\users\cca017\source\repos\Assessment2\Assessment2\bin\Debug\Assessment2.pdb
+c:\users\cca017\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.csproj.CoreCompileInputs.cache
+c:\users\cca017\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.exe
+c:\users\cca017\source\repos\Assessment2\Assessment2\obj\Debug\Assessment2.pdb

@@ -1,0 +1,7 @@
+c:\users\cca017\source\repos\Assessment4\Assessment4\bin\Debug\Assessment4.exe.config
+c:\users\cca017\source\repos\Assessment4\Assessment4\bin\Debug\Assessment4.exe
+c:\users\cca017\source\repos\Assessment4\Assessment4\bin\Debug\Assessment4.pdb
+c:\users\cca017\source\repos\Assessment4\Assessment4\obj\Debug\Assessment4.csprojResolveAssemblyReference.cache
+c:\users\cca017\source\repos\Assessment4\Assessment4\obj\Debug\Assessment4.csproj.CoreCompileInputs.cache
+c:\users\cca017\source\repos\Assessment4\Assessment4\obj\Debug\Assessment4.exe
+c:\users\cca017\source\repos\Assessment4\Assessment4\obj\Debug\Assessment4.pdb
